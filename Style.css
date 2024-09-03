@@ -1,9 +1,10 @@
 html, body {
-  margin: 30px;
-  padding: 0;
-  background-color: #44DA19;
-}
-
-canvas {
-  display: block;
-}
+    margin: 30px;
+    padding: 0;
+    background-color: #44DA19;
+  }
+  
+  canvas {
+    display: block;
+  }
+  
